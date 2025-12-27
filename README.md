@@ -1,15 +1,18 @@
 # Hyperdrive II: The Microbee Adventure
 
-## A Different Game, A Different Machine
+## A Microbee Original
 
-Hyperdrive II is not the VIC-20 game called Hyperdrive. It is a separate title
-written by John Hardy for the Microbee, and it only makes a few references to
-Ken Stone's original Hyperdrive. The story draws on Ken's ideas, but the game
-itself is a fresh reworking built on the BASIC engine that powered Caverns.
+Hyperdrive II is a Microbee science-fiction text adventure written by John
+Hardy in 1982 and released in 1983. The BASIC listing's title screen credits
+Hardy and notes it is "based on an idea by Ken Stone," which ties it directly
+to the small circle of early-1980s collaborators who built Caverns and the
+original Hyperdrive.
 
-It comes from the same small circle of collaborators and the same early-1980s
-moment in home computing, but it is its own game with its own tone and
-structure.
+That credit matters. Hyperdrive II can be read as a sequel in spirit to Ken
+Stone's VIC-20 Hyperdrive, carrying forward the core idea of a lone pilot drawn
+into a vast, abandoned ship. But the execution is new: a Microbee-only adventure
+with its own map, puzzles, and voice, built on the BASIC engine that powered
+Caverns.
 
 ## The Premise (From the Intro)
 
@@ -80,6 +83,13 @@ but not in identity. Hyperdrive II is John Hardy's Microbee work, while the
 original Hyperdrive on VIC-20 was Ken Stone's game based on the earlier
 Caverns lineage.
 
+## A Different Game, A Different Machine
+
+Because the name overlaps, it helps to be explicit: Hyperdrive II is not the
+VIC-20 game called Hyperdrive. It is a separate Microbee title within the
+Hyperdrive tradition, drawing on Ken Stone's original idea while standing as a
+distinct game with its own design and tone.
+
 ## Contemporary Catalogue and Tape Copy
 
 The surviving tape insert and catalogue text add period detail to Hyperdrive
@@ -139,4 +149,3 @@ requirements and price.
 ![Microbee advertisement from Talking Electronics Issue 10 (1982).](assets/microbee-versions-te-10.jpg)
 Caption: Talking Electronics Issue 10 advertisement listing Hyperdrive II (16k)
 and its premise under the BeeHive Software House banner.
-
