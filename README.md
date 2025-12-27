@@ -15,7 +15,7 @@ Hyperdrive II resurfaced on the B side of a cassette tape that otherwise
 contained Caverns for the 16K Microbee. That tape was preserved by the Microbee
 Software Preservation Project, and the recovery of the original text was helped
 along by Alan Laughton (aka ChickenMan), who pointed the way and assisted with
-the reconstruction.
+the reconstruction..
 
 This repository exists to keep that recovery intact and to separate Hyperdrive
 II's story from the older VIC-20 title.
