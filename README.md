@@ -124,8 +124,8 @@ Primary artifacts:
 
 - `src/hypedrive2.bas`: recovered BASIC source listing
 - `src/hypedrive2.mwb`: tokenized Microbee BASIC version
-- `src/hypedrive2intro.bas`: title and story intro loader
-- `src/hypedrive2intro.mwb`: tokenized intro program
+- `src/hyperdrive2-intro.bas`: title and story intro loader
+- `src/hyperdrive2-intro.mwb`: tokenized intro program
 - `src/protected/`: protected or obfuscated variants (if present)
 
 Supporting material and notes:
