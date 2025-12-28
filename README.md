@@ -1,5 +1,7 @@
 # Hyperdrive II: The Microbee Adventure
 
+![NanoWasp emulator screenshot of Caverns.](assets/nanowasp.jpg)
+
 ## A Microbee Original
 
 Hyperdrive II is a Microbee science-fiction text adventure written by John
